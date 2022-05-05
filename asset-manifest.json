@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/static/js/main.be39f774.js",
+    "static/media/fruits.png": "/static/media/fruits.fb045e8d43526dd758ca.png",
+    "static/media/brazil-flag.png": "/static/media/brazil-flag.56c145770fc3726715b1.png",
+    "static/media/india-flag.png": "/static/media/india-flag.f336d69e5746a2e36a0a.png",
+    "static/media/davyson.png": "/static/media/davyson.87f2023e85a050cebfe1.png",
+    "static/media/beatriz.png": "/static/media/beatriz.6610dd5748ba2a0d07fd.png",
+    "static/media/dhruvil.png": "/static/media/dhruvil.7631dd6451b9a31957ba.png",
+    "static/media/vitor.png": "/static/media/vitor.c7a1c492bfb69779d0af.png",
+    "static/media/illustration-01.png": "/static/media/illustration-01.d45996980402fd0e9e83.png",
+    "static/media/cat-02.png": "/static/media/cat-02.aaa2d1359bf2755cea0a.png",
+    "static/media/logo.png": "/static/media/logo.8fcdd2e97b6951794b37.png",
+    "static/media/logo-green.png": "/static/media/logo-green.15e79ac692ac418ddca2.png",
+    "static/media/sacola-de-compras.png": "/static/media/sacola-de-compras.506b43f02f056a5e25bc.png",
+    "static/media/megaphone.svg": "/static/media/megaphone.ea7be1b271a87bbd21341f9188fe4535.svg",
+    "index.html": "/index.html",
+    "main.be39f774.js.map": "/static/js/main.be39f774.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.be39f774.js"
+  ]
+}
